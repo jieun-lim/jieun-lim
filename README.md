@@ -1,8 +1,7 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=DFFF00&text=&animation=twinkling&height=150)
+![header](https://capsule-render.vercel.app/api?type=venom&animation=fadeIn&color=gradient&height=400&text=Welcome%20to%20Jieun's%20%20github&fontSize=50)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=DFFF00&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Hello+👋+Welcome+to+Jieun's+github)](https://git.io/typing-svg)
  
 <div align="right">
 <img src="https://komarev.com/ghpvc/?username=jieun-lim&&style=flat-square" align="right"/>
