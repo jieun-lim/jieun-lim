@@ -1,10 +1,15 @@
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=DFFF00&text=&animation=twinkling&height=150)
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=DFFF00&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Hello+👋+Welcome+to+Jieun's+github)](https://git.io/typing-svg)
+ 
 <div align="right">
-<img src="https://komarev.com/ghpvc/?username=Daehyun-Bigbread&&style=flat-square" align="right"/>
-  
+<img src="https://komarev.com/ghpvc/?username=jieun-lim&&style=flat-square" align="right"/>
 <div align="left">
+
   
-## 👋 Hello ~ I'm Jieun!
+-----
 
 <div style='float:left'>
 <a href="https://www.linkedin.com/in/[daehyun-kim-b6336b29](https://www.linkedin.com/in/jieun-lim-91b161269/)1/">
