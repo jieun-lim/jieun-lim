@@ -24,7 +24,7 @@
 ### 🧐 About me
 I have a strong interest in chatbot agent and improving related user experiences based on data science. I have experienced developing a chatbot and a speaker agent based on AI models from an HCI perspective. Also, I've  extracted useful user insights through statistical data analysis.
 
-Recently, I’ve been interested in generative AI models in that it can further improve user experiences in chatbot agents. In this context, I'm  currently participating in the Kakao Tech Bootcamp program to deepen my knowledge in this area.
+Recently, I’ve been interested in generative AI models in that it can further improve user experiences in chatbot agents. In this context, I recently participated in the KakaoTech Bootcamp to deepen my knowledge in this area.
 
 Other than the academic things, I love swimming 🏊 , running 🏃 and other outdoor activities. My Life motto is to seek out a wide variety of experiences. 
 
@@ -32,7 +32,6 @@ Other than the academic things, I love swimming 🏊 , running 🏃 and other ou
 
 ### 🧐 Interests
 - Artificial Intelligence(AI), Human-Computer Interaction(HCI), Data Science
-
 
 ### 🎓  Education
 - **KAIST(Korea Advanced Institute of Science & Technology), MS(2021~2023)**  
@@ -55,10 +54,10 @@ Other than the academic things, I love swimming 🏊 , running 🏃 and other ou
 Jieun Lim, Youngji Koh, Auk Kim, and Uichin Lee  
 **ACM CHI 2024 Paper** [Download paper](https://dl.acm.org/doi/full/10.1145/3613904.3642846)
 
-
 **FX-Toon: An Adversarial Generative Network-Based Effects Toon Generation System**
 Jieun Lim, Joondoo Choi, Nayoung Jin, Gyutaek Oh, Minsam Ko
 **HCI Korea 2020 Conference Paper** [Download paper](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE10402706)
+
 
 ####  • <U>Extended Abstracts and Workshop Papers</U>
 **CareMouse: An Interactive Mouse System that Supports Wrist Stretching Exercises in the Workplace**
@@ -66,8 +65,8 @@ Gyuwon Jung, Youwon Shin, Jieun Lim and Uichin Lee
 **ACM CHI 2022 Extended Abstracts** [Download paper](https://dl.acm.org/doi/abs/10.1145/3491101.3519857)
 
 
-
 ### 🏆 Awards
+- **Grand prize at the 2024 K-Digital Hackathon** for the project "Work-Plate", which is a platform that recommends customized small tasks suitable for the physical conditions of the elderly
 - **Best Paper Award at the 2020 SW/ICT Integrated Academic Conference**, for the project "Deep Learning-Based Image Retrieval System for Providing Design Inspiration," organized by Hanyang University SW Business Group
 - **Grand Prize at the 2019 Intra-University SW/ICT Integrated Academic Conference** for the project "Deep Learning-Based Automatic Smart Webtoon Effects Generation System"
 - Lim, Jieun, et al. "Exploring Context-Aware Mental Health Self-Tracking Using Multimodal Smart Speakers in Home Environments." Proceedings of the CHI Conference on Human Factors in Computing Systems. 2024.
@@ -75,7 +74,7 @@ Gyuwon Jung, Youwon Shin, Jieun Lim and Uichin Lee
 
 
 ### ✅ Experience
-- Kakao Tech Bootcamp: Generative AI Program (2024.07~Present)
+- Kakao Tech Bootcamp: Generative AI Program (2024.07.01~2024.12.27)
 - Samsung SDS Algorithm Camp (2024.02.13~2024.02.23)
 - Startup Club Activities (2021.02~2021.08), organized by Hanyang University ERICA Startup Education Center 
 - Research Intern in HAI Lab (2019.07~2021.02)
